@@ -16,7 +16,7 @@ env:
   WebAppPublish: false #set to true and define the Web App details in the next 3 lines
   WebAppSubscriptionId: 367c4c3f-dd8c-4ef3-8699-4b37cfdc9025
   WebAppResourceGroup: contoso-mgmt
-  WebAppName: <Name> e.g. MyAzGovVizWebApp
+  WebAppName: MyAzGovVizWebApp
 
 on:
   #schedule:
